@@ -13,6 +13,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elena_de_Vicente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-de-vicente-391991313/)
+
 Profesional en transición hacia el análisis de datos y la inteligencia artificial, con experiencia previa en dirección de obra, instalaciones, coordinación de equipos y resolución de problemas técnicos.
 
 Actualmente estoy ampliando mi formación en datos e IA, desarrollando proyectos con Python, análisis de datos, machine learning, APIs y aplicaciones interactivas.
