@@ -9,6 +9,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -33,15 +35,44 @@ Actualmente estoy ampliando mi formación en datos e IA, desarrollando proyectos
 
 * **Lenguajes:** Python, SQL
 * **Análisis de datos:** Pandas, NumPy
-* **Visualización:** Matplotlib, Seaborn, Streamlit
-* **Machine Learning:** Scikit-learn
+* **Visualización:** Matplotlib, Seaborn, Streamlit, Power BI
+* **Machine Learning y experimentación:** Scikit-learn, MLflow
 * **Backend y APIs:** FastAPI, SQLAlchemy, Pydantic
 * **Herramientas:** Git, GitHub, Docker, Jupyter Notebook
 * **Bases de datos:** SQLite
 
 ## 🚀 Proyectos destacados
 
-Próximamente encontrarás aquí una selección de mis mejores proyectos de análisis de datos, inteligencia artificial y desarrollo con Python.
+### 🧪 [MLflow Jedi · Biblioteca Jedi](https://github.com/elenacarino-max/Pildora4_ext_StarWars)
+
+Aplicación didáctica interactiva para aprender tracking de experimentos con MLflow mediante retos, misiones de Machine Learning y seguimiento del progreso del alumnado.
+
+**Tecnologías:** Python, MLflow, Streamlit, scikit-learn, Docker, SQLite y Jupyter Notebook.  
+🚀 [Aplicación desplegada](https://pildora4extstarwars-14.streamlit.app/)
+
+---
+
+### 📊 [Choose Your Side · Star Wars Rebellion Lab](https://github.com/elenacarino-max/DashboardStarWars)
+
+Proyecto personal de análisis de datos y estrategia de marca. Incluye limpieza y transformación de datos con Python, segmentación de audiencias y un dashboard ejecutivo en Power BI.
+
+**Tecnologías:** Python, Pandas, NumPy, Power BI, Jupyter Notebook y data storytelling.
+
+---
+
+### 🌦️ [Mas ClimApp](https://github.com/elenacarino-max/mas-climapp)
+
+Plataforma web colaborativa para consultar, registrar y comparar información meteorológica mediante datos oficiales de AEMET, alertas climáticas, histórico y API REST.
+
+**Tecnologías:** Python, Flask, FastAPI, SQLAlchemy, SQLite, Pydantic y Pytest.
+
+---
+
+### 💼 [EDA Roles de Datos en España](https://github.com/elenacarino-max/proyecto-eda-roles-datos)
+
+Análisis exploratorio del mercado laboral de datos en España, desde la recopilación y limpieza de ofertas hasta el análisis estadístico y la creación de una aplicación interactiva.
+
+**Tecnologías:** Python, Pandas, NumPy, SciPy, Plotly, Streamlit y Jupyter Notebook.
 
 ## 🌱 Actualmente aprendiendo
 
