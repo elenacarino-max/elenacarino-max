@@ -52,6 +52,15 @@ Aplicación didáctica interactiva para aprender tracking de experimentos con ML
 
 ---
 
+### 🚲 [BiciMAD Predictor & Booking Assistant](https://github.com/elenacarino-max/bike-sharing-prediction)
+
+Plataforma predictiva para estimar la disponibilidad de bicicletas en las estaciones de BiciMAD según variables meteorológicas y temporales. Incluye un asistente de reservas, mapa interactivo y cuadro de mando de analítica.
+
+**Tecnologías:** Python, Pandas, scikit-learn, Random Forest, Streamlit, Folium y Joblib.  
+🚀 [Aplicación desplegada](https://bicimad-bike-sharing-prediction.streamlit.app/)
+
+---
+
 ### 📊 [Choose Your Side · Star Wars Rebellion Lab](https://github.com/elenacarino-max/DashboardStarWars)
 
 Proyecto personal de análisis de datos y estrategia de marca. Incluye limpieza y transformación de datos con Python, segmentación de audiencias y un dashboard ejecutivo en Power BI.
